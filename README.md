@@ -168,3 +168,5 @@ com.gjw
 | `tarefas` | Tarefas vinculadas aos projetos |
 | `equipe_membros` | Relacionamento N:N usuário ↔ equipe |
 | `projeto_equipes` | Relacionamento N:N projeto ↔ equipe |
+
+Obrigada!
